@@ -12,3 +12,5 @@ I believe this style guide will mostly do for now, but we will have to make some
 https://www.zotero.org/support/preferences/cite 
 
 Zotero documentation and forums provide a lot of information about Zotero connectors, integration with GoogleDoc and Word, etc.
+
+### Link to Hanna's style guide for KITAB publications
