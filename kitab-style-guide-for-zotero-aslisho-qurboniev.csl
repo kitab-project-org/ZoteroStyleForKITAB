@@ -18,7 +18,7 @@
     <category citation-format="note"/>
     <category field="generic-base"/>
     <summary>This style is based on Oxford Manual of style, with modifications suggested by Hanna</summary>
-    <updated>2022-04-04T11:11:38+00:00</updated>
+    <updated>2022-04-04T14:29:50+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -428,7 +428,7 @@
       <key macro="author"/>
       <key variable="title"/>
     </sort>
-    <layout>
+    <layout suffix=".">
       <group delimiter=", ">
         <text macro="author"/>
         <text macro="title-note"/>
