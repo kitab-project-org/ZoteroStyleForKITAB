@@ -14,3 +14,5 @@ https://www.zotero.org/support/preferences/cite
 Zotero documentation and forums provide a lot of information about Zotero connectors, integration with GoogleDoc and Word, etc.
 
 ### Link to Hanna's style guide for KITAB publications
+
+https://docs.google.com/document/d/11RQ2ulC15_YHqA4HcHKYnL9S9KACPvzAIudtPEtPOHk/edit 
