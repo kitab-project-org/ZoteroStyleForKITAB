@@ -1,19 +1,24 @@
-# ZoteroStyleForKITAB
-Zotero Citation Style for the ERC volume
+# Zotero problems to be resolved
+1.	Handling of multiple editors. The Zotero style says Lorenz Nigst ‘and others’ rather than ‘et al’, as it should 
+
+e.g. Lorenz Nigst et al., ‘OpenITI: A Machine-Readable Corpus of Islamicate Texts’ (Zenodo, 2022), https://zenodo.org/record/6808108 [accessed 27 February 2023].
+This graph also appears in Sarah Bowen Savant, ‘People Versus Books’, in Bruce Fudge et al. (eds), _Non Sola Scriptura_ (London: Routledge, 2022), 286, DOI: 10.4324/9781003252221-18.
+
+2. I have changed 'edited by' to 'ed.' but we need to ensure the name of the editor  comes before the title of the edited volume. 
+
+As in Sarah Bowen Savant, ‘People Versus Books’, in Bruce Fudge et al. (eds), Non Sola Scriptura (London: Routledge, 2022), 286, DOI: 10.4324/9781003252221-18.
+
+And NOT: Sarah Bowen Savant, ‘People Versus Books’, in  _Non Sola Scriptura_, ed. Bruce Fudge et al.(London: Routledge, 2022), 286, DOI: 10.4324/9781003252221-18.
+
+3. The way of entering the data put an ‘s’ onto vols. Because we have other information tacked onto end
+
+Yāqūt, _Muʿjam al-udabāʾ,_ vol. 4, 1698, entry 743, ms. 1199.
+
+4. Whether article "al-" should be capitalized or not within a note when starting a name:
+
+e.g. See especially al-Dhahabī, _Siyar aʿlām al-nubalāʾ,_ ed. Shuʿayb Arnāʾūṭ and Ḥusayn Asad, 25 vols (Beirut: Muʾassasat al-Risāla, 1985), vol. 20, 554–6, 0748Dhahabi.SiyarAclamNubala.Shamela0010906, ms. 6647–8.
 
 
-Please download and install the following citation style on Zotero. This is a slightly modified version of the Oxford Style, as suggested by Hanna (E.g. the Oxford Style suppresses ‘publisher’s name’ in references, I have modified it to keep it). Other modification have also been implemented based on Hanna's suggestion.
-https://github.com/kitab-project-org/ZoteroStyleForKITAB/blob/main/kitab-style-guide-for-zotero-aslisho-qurboniev.csl 
-
-I believe this style guide will mostly do for now, but we will have to make some changes as we go along, especially with regard to citing the OpenITI files, datasets, and primary Arabic sources. Please let me know if you have any questions. For the most part, we hope  that the style guide will make it easier for us to remain on the same page.
-
-### Guide to install a Zotero style from your computer
-
-https://www.zotero.org/support/preferences/cite 
-
-Zotero documentation and forums provide a lot of information about Zotero connectors, integration with GoogleDoc and Word, etc.
-
-### Link to Hanna's style guide for KITAB publications
-
-https://docs.google.com/document/d/11RQ2ulC15_YHqA4HcHKYnL9S9KACPvzAIudtPEtPOHk/edit 
+# General questions
+1.	Do we treat each blog as a distinct article – giving new full citation of a source? Or can we assume readers of blog 2 read blog 1 and not repeat? Can we find a workaround – listing in the left margin a link to the blog series bibliography?
 
