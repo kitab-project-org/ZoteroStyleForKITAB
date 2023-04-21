@@ -41,7 +41,8 @@ The Zotero style says Lorenz Nigst ‘and others’ rather than ‘et al’, as 
 
 e.g. Lorenz Nigst et al., ‘OpenITI: A Machine-Readable Corpus of Islamicate Texts’ (Zenodo, 2022), https://zenodo.org/record/6808108 [accessed 27 February 2023].
 This graph also appears in Sarah Bowen Savant, ‘People Versus Books’, in Bruce Fudge et al. (eds), _Non Sola Scriptura_ (London: Routledge, 2022), 286, DOI: 10.4324/9781003252221-18.
-`this was recolved, we will have up to 6 authors listed in Bibliography and 'et. al in notes`
+
+`this was recolved, we will have up to 6 authors listed in Bibliography and 'et. al' in notes`
 
 ### URL – remove <>, add ‘,’ before the URL? Hanna wrote into my notes: (also changed now)
 In note: I have  deleted the angle brackets from URLs and the like in line with the style guide, but if Zotero insists on them, you will probably find it easiest to keep them
