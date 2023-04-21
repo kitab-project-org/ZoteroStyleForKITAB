@@ -22,18 +22,20 @@ e.g. See especially al-Dhahabī, _Siyar aʿlām al-nubalāʾ,_ ed. Shuʿayb Arn�
 
 
 # General questions
+
 ### 1. Citing blogs
 Do we treat each blog as a distinct article – giving new full citation of a source? Or can we assume readers of blog 2 read blog 1 and not repeat? Can we find a workaround – listing in the left margin a link to the blog series bibliography?
 
-### from Sarah: Should we have series in our style or not? I am inclined to include – but it’s up to the team. 
+### Series
+##### rom Sarah: Should we have series in our style or not? I am inclined to include – but it’s up to the team. 
 In note, here and throughout: I generally recommend omitting series names from citations, since that information is rarely needed and few authors manage to include it consistently, but it cer-tainly doesn’t hurt.
 
-### Do we need the [accessed xx-xx-xxxx] note for stable releases such as for the OpenITI?
+### Do we need the [Accessed 21-04-2023] note for stable releases such as for the OpenITI?
 
 
 # Resolved. (When we fix a problem, we move it here for the record.)
 
-###	Handling of multiple editors. (now fixed: Aslisho changed "and others with et. al)
+###	Handling of multiple editors. (now fixed: Aslisho changed "and others" with "et. al")
 
 The Zotero style says Lorenz Nigst ‘and others’ rather than ‘et al’, as it should 
 
@@ -42,4 +44,4 @@ This graph also appears in Sarah Bowen Savant, ‘People Versus Books’, in Bru
 `this was recolved, we will have up to 6 authors listed in Bibliography and 'et. al in notes`
 
 ### URL – remove <>, add ‘,’ before the URL? Hanna wrote into my notes: (also changed now)
-In note: I have tentatively deleted the angle brackets from URLs and the like in line with the style guide, but if Zotero insists on them, you will probably find it easiest to keep them
+In note: I have  deleted the angle brackets from URLs and the like in line with the style guide, but if Zotero insists on them, you will probably find it easiest to keep them
