@@ -14,11 +14,20 @@ The way of entering the data put an ‘s’ onto vols. Because we have other inf
 
 Yāqūt, _Muʿjam al-udabāʾ,_ vol. 4, 1698, entry 743, ms. 1199.
 
+ - vols but should say vol. (with a period?)
+ 
+ʻAlī ibn al-Ḥasan Ibn ʻAsākir, Taʾrīkh madīnat Dimashq: wa-dhikr faḍlihā wa-tasmiyat man ḥallahā min al-amāthil aw ijtāza bi-nawāḥīhā min wāridīhā wa-ahlihā, ed. Muḥibb al-Dīn Abī Saʻīd ʻUmar b. Gharāmah al-ʻ Amrawī (Beirut: Dār al-Fikr, 1995), vols 2, 412, 0571IbnCasakir.TarikhDimashq.JK000916., ms. 00652.
+
 ### 3. "al-" capitalization
 Whether article "al-" should be capitalized or not within a note when starting a name. In the case below, the style editor capitalises Al, when it shouldn't
 
 e.g. See especially al-Dhahabī, _Siyar aʿlām al-nubalāʾ,_ ed. Shuʿayb Arnāʾūṭ and Ḥusayn Asad, 25 vols (Beirut: Muʾassasat al-Risāla, 1985), vol. 20, 554–6, 0748Dhahabi.SiyarAclamNubala.Shamela0010906, ms. 6647–8.
 - two interim solutions: 1. use the full name of the author, such as Abu Ḥāmid al-Ghazālī, Muḥammad al-Dhahabī; 2. Add the preceding text, as 'prefix' (in the example above, add "See especially, as 'prefix' in Zotero.)
+
+### 4. Extra period
+Abū ʿAbd Allāh Muḥammad b. ʿAbd Allāh al-Ḥākim al-Naysābūrī, Maʿrifat ʿulūm al-ḥadīth (Beirut: Dār al-kutub al-’ilmiyya, 1977), 261, 0405HakimNaysaburi.MacrifatCulumHadith.Shia002093., ms.240.
+ 
+
 
 
 # General questions
