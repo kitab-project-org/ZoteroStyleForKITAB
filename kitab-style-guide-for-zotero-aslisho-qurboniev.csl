@@ -18,7 +18,7 @@
     <category citation-format="note"/>
     <category field="generic-base"/>
     <summary>This style is based on Oxford Manual of style, with modifications suggested by Hanna</summary>
-    <updated>2023-05-14T09:45:16+00:00</updated>
+    <updated>2023-05-14T22:12:07+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -198,7 +198,7 @@
           <text macro="edition-note"/>
           <group>
             <number variable="number-of-volumes" form="numeric"/>
-            <text term="volume" form="short" prefix=" " plural="true"/>
+            <text term="volume" form="short" prefix=" "/>
           </group>
         </group>
       </else-if>

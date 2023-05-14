@@ -10,7 +10,7 @@ As in Sarah Bowen Savant, ‘People Versus Books’, in Bruce Fudge et al. (eds)
 And NOT: Sarah Bowen Savant, ‘People Versus Books’, in  _Non Sola Scriptura_, ed. Bruce Fudge et al.(London: Routledge, 2022), 286, DOI: 10.4324/9781003252221-18.
 
 ### 2. volume -> vol. not vols.
-The way of entering the data put an ‘s’ onto vols. Because we have other information tacked onto end
+The way of entering the data put an ‘s’ onto vols. Because we have other information tacked onto end. This seems to be because we use page page numbers after volume # without specifying i.e. writing p. before the page number.
 
 Yāqūt, _Muʿjam al-udabāʾ,_ vol. 4, 1698, entry 743, ms. 1199.
 
