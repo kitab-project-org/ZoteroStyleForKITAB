@@ -24,8 +24,7 @@ Whether article "al-" should be capitalized or not within a note when starting a
 e.g. See especially al-Dhahabī, _Siyar aʿlām al-nubalāʾ,_ ed. Shuʿayb Arnāʾūṭ and Ḥusayn Asad, 25 vols (Beirut: Muʾassasat al-Risāla, 1985), vol. 20, 554–6, 0748Dhahabi.SiyarAclamNubala.Shamela0010906, ms. 6647–8.
 - two interim solutions: 1. use the full name of the author, such as Abu Ḥāmid al-Ghazālī, Muḥammad al-Dhahabī; 2. Add the preceding text, as 'prefix' (in the example above, add "See especially, as 'prefix' in Zotero.)
 
-### 4. Extra period
-Abū ʿAbd Allāh Muḥammad b. ʿAbd Allāh al-Ḥākim al-Naysābūrī, Maʿrifat ʿulūm al-ḥadīth (Beirut: Dār al-kutub al-’ilmiyya, 1977), 261, 0405HakimNaysaburi.MacrifatCulumHadith.Shia002093., ms.240.
+
  
 
 
@@ -55,3 +54,6 @@ This graph also appears in Sarah Bowen Savant, ‘People Versus Books’, in Bru
 
 ### URL – remove <>, add ‘,’ before the URL? Hanna wrote into my notes: (also changed now)
 In note: I have  deleted the angle brackets from URLs and the like in line with the style guide, but if Zotero insists on them, you will probably find it easiest to keep them
+
+###  Extra period now removed from URIs, ms0000 should be added as a page number with a preceding comma (,). When milestone not present, the URI automatically ends with a fullstop.
+Abū ʿAbd Allāh Muḥammad b. ʿAbd Allāh al-Ḥākim al-Naysābūrī, Maʿrifat ʿulūm al-ḥadīth (Beirut: Dār al-kutub al-’ilmiyya, 1977), 261, 0405HakimNaysaburi.MacrifatCulumHadith.Shia002093., ms.240.
