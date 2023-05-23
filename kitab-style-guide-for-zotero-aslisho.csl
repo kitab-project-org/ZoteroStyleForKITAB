@@ -18,7 +18,7 @@
     <category citation-format="note"/>
     <category field="generic-base"/>
     <summary>This style is based on Oxford Manual of style, with modifications suggested by Hanna</summary>
-    <updated>2023-05-14T22:12:07+00:00</updated>
+    <updated>2023-05-23T22:52:37+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -125,30 +125,30 @@
           <if variable="container-author reviewed-author" match="any">
             <group>
               <names variable="container-author reviewed-author">
-                <label form="verb-short" text-case="lowercase" suffix=" "/>
-                <name and="text" delimiter=", "/>
+                <label form="verb-short" text-case="lowercase" strip-periods="false" suffix=" "/>
+                <name font-variant="normal" and="text"/>
               </names>
             </group>
           </if>
         </choose>
       </group>
-      <names variable="editor translator" delimiter=", ">
-        <label form="short" text-case="lowercase" suffix=" "/>
-        <name and="text" delimiter=", "/>
+      <names variable="editor translator" delimiter=", " prefix="in ">
+        <name and="text" et-al-min="6" initialize="false"/>
+        <label form="short" text-case="lowercase" strip-periods="false" vertical-align="baseline" prefix=" (" suffix=")"/>
       </names>
     </group>
   </macro>
   <macro name="secondary-contributors-note">
     <choose>
       <if type="chapter paper-conference" match="none">
-        <text macro="editor-translator"/>
+        <text macro="editor-translator" strip-periods="false"/>
       </if>
     </choose>
   </macro>
   <macro name="container-contributors-note">
     <choose>
       <if type="chapter paper-conference" match="any">
-        <text macro="editor-translator"/>
+        <text macro="editor-translator" strip-periods="true"/>
       </if>
     </choose>
   </macro>
@@ -198,7 +198,7 @@
           <text macro="edition-note"/>
           <group>
             <number variable="number-of-volumes" form="numeric"/>
-            <text term="volume" form="short" prefix=" "/>
+            <text term="volume" form="short" plural="true" prefix=" " suffix="."/>
           </group>
         </group>
       </else-if>
@@ -249,9 +249,7 @@
   </macro>
   <macro name="container-title-note">
     <choose>
-      <if type="chapter paper-conference" match="any">
-        <text term="in" suffix=" "/>
-      </if>
+      <if type="chapter paper-conference" match="any"/>
     </choose>
     <text variable="container-title" font-style="italic" text-case="title"/>
   </macro>
@@ -262,7 +260,7 @@
           <if is-numeric="edition">
             <group delimiter=" ">
               <number variable="edition" form="ordinal"/>
-              <text term="edition" form="short"/>
+              <text term="edition"/>
             </group>
           </if>
           <else>
@@ -409,8 +407,8 @@
             <text macro="contributors-note"/>
             <text macro="title-note"/>
             <text macro="secondary-contributors-note"/>
-            <text macro="container-title-note"/>
             <text macro="container-contributors-note"/>
+            <text macro="container-title-note"/>
             <text macro="collection-title"/>
             <text macro="locators-note"/>
           </group>
@@ -433,8 +431,8 @@
         <text macro="author"/>
         <text macro="title-note"/>
         <text macro="secondary-contributors-note"/>
-        <text macro="container-title-note"/>
         <text macro="container-contributors-note"/>
+        <text macro="container-title-note"/>
         <text macro="collection-title"/>
         <text macro="volume"/>
       </group>
