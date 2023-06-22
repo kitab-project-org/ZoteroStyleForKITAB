@@ -56,8 +56,10 @@ Abū ʿAbd Allāh Muḥammad b. ʿAbd Allāh al-Ḥākim al-Naysābūrī, Maʿri
 ###  Ed. and eds. (this has also been resolved)
 #### The editors of volumes now come before edited volumes; (eds) comes after the editors name between ()
 
-I have changed 'edited by' to 'ed.' but we need to ensure the name of the editor  comes before the title of the edited volume. 
+I have also changed 'edited by' to 'ed.' 
 
 As in Sarah Bowen Savant, ‘People Versus Books’, in Bruce Fudge et al. (eds), Non Sola Scriptura (London: Routledge, 2022), 286, DOI: 10.4324/9781003252221-18.
 
 And NOT: Sarah Bowen Savant, ‘People Versus Books’, in  _Non Sola Scriptura_, ed. Bruce Fudge et al.(London: Routledge, 2022), 286, DOI: 10.4324/9781003252221-18.
+
+An earlier version of the style didn't make distinction between the editors of classical texts _(Tarikh Madinat Dimashq)_ and edited volumes _(Non Sola Scriptura)_. This has been fixed now.
