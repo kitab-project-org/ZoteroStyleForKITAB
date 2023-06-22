@@ -132,7 +132,7 @@
           </if>
         </choose>
       </group>
-      <names variable="editor translator" delimiter=", " prefix="">
+      <names variable="editor translator" delimiter=", " prefix="in ">
         <name and="text" et-al-min="6" initialize="false"/>
         <label form="short" text-case="lowercase" strip-periods="false" vertical-align="baseline" prefix=" (" suffix=")"/>
       </names>
@@ -148,7 +148,6 @@
   <macro name="container-contributors-note">
     <choose>
       <if type="chapter paper-conference" match="any">
-	<text term="in" suffix =" "/>
         <text macro="editor-translator" strip-periods="true"/>
       </if>
     </choose>
